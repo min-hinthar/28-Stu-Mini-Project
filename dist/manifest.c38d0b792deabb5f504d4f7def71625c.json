@@ -1,0 +1,17 @@
+{
+  "icons": [
+    {
+      "src": "./assets/icons/icon_512x512.a17fc6d19176b35b63cd3a349db17e1a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Contacts Cards",
+  "short_name": "Contacts",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Keep track of your Contacts!",
+  "background_color": "#7eb4e2",
+  "theme_color": "#7eb4e2"
+}
